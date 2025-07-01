@@ -1,0 +1,16 @@
+#root {
+  /* max-width: 1280px; */
+  /* margin: 0 auto; */
+  padding: 2rem;
+  text-align: center;
+}
+
+.added-Note-class{
+  background-color: rgba(229, 231, 199, 0.925);
+  
+}
+
+.complete{
+  text-decoration: line-through;
+  color:rgba(185, 47, 29, 0.74)
+}
