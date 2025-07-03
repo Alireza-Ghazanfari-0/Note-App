@@ -46,8 +46,7 @@ A **simple & clean** web app to write and manage personal notes — built with *
 git clone https://github.com/Alireza-Ghazanfari-0/Note-App.git
 cd Note-App
 npm install
-npm run dev ```
-
+npm run dev  
 
 ## 🎯 Future Improvements | بهبودهای آینده
 Add local storage or backend persistence | افزودن ذخیره‌سازی دائمی
