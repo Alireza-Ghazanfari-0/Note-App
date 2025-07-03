@@ -36,6 +36,8 @@ cd Note-App
 npm install
 npm run dev
 
+***
+
 ## 🎯 Future Improvements:
 Add local storage or backend persistence
 
@@ -46,3 +48,4 @@ Enhanced UI/UX
 Better mobile experience
 
 
+Alireza.ghazanfari@yahoo.com
