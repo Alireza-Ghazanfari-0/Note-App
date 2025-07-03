@@ -47,7 +47,7 @@ git clone https://github.com/Alireza-Ghazanfari-0/Note-App.git
 cd Note-App
 npm install
 npm run dev
-```bash   
+```
 
 ## 🎯 Future Improvements | بهبودهای آینده
 Add local storage or backend persistence | افزودن ذخیره‌سازی دائمی
