@@ -1,4 +1,4 @@
-# 📝 Mini Note App | اپلیکیشن یادداشت مینی
+# 📝 Mini Note App | اپلیکیشن یادداشت
 
 A **simple & clean** web app to write and manage personal notes — built with **ReactJS**, no backend, no database, pure frontend fun!  
 یک اپلیکیشن ساده برای ثبت و مدیریت یادداشت‌ها، بدون نیاز به بک‌اند یا دیتابیس، فقط با ReactJS
@@ -57,3 +57,6 @@ Filter notes by status (completed / pending) | فیلتر بر اساس وضعی
 Enhanced UI/UX | بهبود ظاهر و تجربه کاربری
 
 Better mobile experience | بهینه‌سازی نسخه موبایل
+
+## connection
+Alireza.ghazanfari@yahoo.com
